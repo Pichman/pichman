@@ -1,2 +1,0 @@
-# pichman
-Test site directory
